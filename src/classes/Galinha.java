@@ -6,6 +6,7 @@ public class Galinha extends Ave {
         raca = "COmun";
         cor = "Mesclada";
         especie = "Galinha da FAzenda";
+
         sabeVoar = false;
         temHabitosNoturnos = false;
     }
